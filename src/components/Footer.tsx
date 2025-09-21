@@ -6,7 +6,7 @@ export default function Footer() {
     return (
         <footer className="bg-forest-green text-white">
             <div className="container mx-auto px-2 py-8">
-                <div className="grid grid-cols-4 gap-8">
+                <div className="grid grid-cols-4 gap-8 px-2">
                     <div className="col-span-1 flex flex-col gap-4 justify-between">
                         <div className="flex flex-col gap-4">
                             <div className="overflow-hidden rounded-lg w-fit">
